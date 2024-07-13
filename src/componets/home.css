@@ -4,7 +4,7 @@
 }
 
 .background{
-  background-color: #1B6122;
+  background-color: #111D4A;
   opacity: 100%;
   width: 100%;
   height: 100vh;
@@ -20,11 +20,11 @@
 
 
 .container{
-  background-color: grey;
+  background-color: #FFCF99;
   height: 35vh;
   width: 35%;
   display: flex;
-  border: solid 1px black;
+  border: solid 1px #1E1E24;
   align-items: center;  
   justify-content: center;
   flex-direction: column;
@@ -37,6 +37,12 @@ input{
 
 }
 .title{
-  margin-bottom: 25vh;
+  margin-bottom: 35vh;
   font-size: 50px;
+  color: #FFCF99;
+text-align: center; 
+
+}
+.ratings p{
+  margin-bottom: 0.5vh;
 }

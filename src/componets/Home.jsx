@@ -51,7 +51,8 @@ export default function Home() {
 
   return (
     <div className="background">
-      <h1 className='title'>check your chess rating</h1>
+      
+      <h1 className='title'>ChessScore.com <br/> check your chess rating</h1>
       <div className="container">
         <div className="search">
           <form onSubmit={handleSubmit}>
